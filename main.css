@@ -1,0 +1,30 @@
+ h1 {
+	  	color: blue;
+	  	font-size: 50px;
+	  	font-family: 'Georgia' , serif
+      }
+
+#yes {
+	color: red;
+}
+
+img
+{
+	width:100%;
+}
+
+#home {
+	background-color: pink;
+}
+
+#about {
+	background-color: pink;
+}
+
+#learn_more {
+	background-color: pink;
+}
+
+#yes:hover {
+	font-size: 50px;
+}
